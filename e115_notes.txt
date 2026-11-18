@@ -1,0 +1,2 @@
+elmcginn
+File extensions matter for security because they help properly identify file type, avoiding potentially misleading files.
